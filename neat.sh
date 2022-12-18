@@ -1,4 +1,7 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
+
+set -euo 
+
 
 downloads_folder="$HOME/Downloads"
 
